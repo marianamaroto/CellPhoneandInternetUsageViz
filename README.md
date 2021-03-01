@@ -10,5 +10,5 @@ Link: https://marianamaroto.shinyapps.io/DataVizPhoneAdoption/
 
 ## Part 2. Internet Usage
 ### a: Group Countries by their region and show the share of people who use internet by different countries visualizing region clearly. 
-![alt text](https://github.com/marianamaroto/CellPhoneandInternetUsageViz/blob/main/PhoneAdoption.gif?raw=true)
+![alt text](https://github.com/marianamaroto/CellPhoneandInternetUsageViz/blob/main/Share%20of%20Internet%20Usage%20by%20Country.png?raw=true)
 
